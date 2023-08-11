@@ -1,0 +1,35 @@
+body,html{
+    margin:auto;
+    border: solid 9px rgba(235, 201, 11, 0.986);
+    background-color: rgb(88, 1, 1);
+    background-image: url(fundo);
+    
+}
+
+#destaque{
+    background-color: brown;
+    text-align: center;
+    color:whitesmoke;
+}
+
+.item{
+    width: 15%;
+    float: left;
+    text-align: center;
+    padding: 2%;
+    color: whitesmoke;
+}
+
+#produtos{
+
+    text-align: justify;
+    
+}
+
+footer{
+    clear: both;
+    text-align: center;
+    width: 90%;
+    color: whitesmoke;
+
+}
